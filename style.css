@@ -1,11 +1,11 @@
 :root {
-    --text-color: rgb(255, 44, 44);
-    --card-front-color: #e72887;
+    --text-color: rgb(0, 0, 0);
+    --card-front-color: #efb2f7;
     --card-back-color: #00F4BF;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('Captura\ de\ tela\ 2025-08-02\ 214813.png');
     font-family: Bai Jamjuree;
 }
 
