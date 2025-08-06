@@ -1,7 +1,7 @@
 criaCartao(
     'Saúde Mental',
     'O que é Saúde Mental?',
-    'O Python é uma linguagem de programação'
+    'É quando a mente está bem, e conseguimos lidar com as emoções, pensar com clareza e viver em paz com os outros.'
 )
 
 criaCartao(
