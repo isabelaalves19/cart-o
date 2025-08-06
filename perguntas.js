@@ -7,24 +7,30 @@ criaCartao(
 criaCartao(
     'Algumas situações atrapalham a mente',
     'O que atrapalha a saúde mental?',
-    'A capital da França é Paris'
+    'Estresse, tristeza constante, brigas, excesso de cobrança e falta de descanso.'
 )
 
 criaCartao(
     'O corpo dá sinais de que algo está errado',
     'Quais sinais o corpo dá?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Cansaço, insônia, dor de cabeça, falta de apetite e vontade de chorar sem motivo'
 )
 
 criaCartao(
     'Apoio faz diferença para quem sofre',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como ajudar quem não está bem?',
+    'Escutando com atenção, mostrando apoio e sugerindo procurar ajuda.'
 )
 
 criaCartao(
-    'Apoio faz diferença para quem sofre',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Redes sociais podem afetar a mente',
+    'As redes sociais atrapalham a mente?',
+    'Podem atrapalhar se causarem comparação, ansiedade ou vício.'
+)
+
+criaCartao(
+    'Autocuidado ajuda a manter a mente saudável',
+    'O que é cuidar de si mesmo?',
+    'É fazer coisas boas pra você, como descansar, se alimentar bem e ter tempo pra relaxar.'
 )
 
